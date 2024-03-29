@@ -1,6 +1,7 @@
 
 
 
+<<<<<<< HEAD
 11 -> 13h: 2h
 15 -> 18h: 3h
 
@@ -8,3 +9,15 @@
 
 
 cmd /c dir /n /b > ids.txt
+=======
+
+
+cmd /c dir /n /b > ids.txt
+
+
+
+find . -size +99M
+
+git push origin HEAD:main
+
+>>>>>>> new-main

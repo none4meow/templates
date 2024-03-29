@@ -2,7 +2,11 @@
 /name [ 9
 	457870616e64207832
 ]
+<<<<<<< HEAD
 /isOpen 0
+=======
+/isOpen 1
+>>>>>>> new-main
 /actionCount 1
 /action-1 {
 	/name [ 8
@@ -11,7 +15,11 @@
 	/keyIndex 2
 	/colorIndex 0
 	/isOpen 1
+<<<<<<< HEAD
 	/eventCount 4
+=======
+	/eventCount 8
+>>>>>>> new-main
 	/event-1 {
 		/useRulersIn1stQuadrant 0
 		/internalName (adobe_commandManager)
@@ -26,6 +34,7 @@
 			/key 1769238125
 			/showInPalette -1
 			/type (ustring)
+<<<<<<< HEAD
 			/value [ 21
 				41646f6265204f626a65637473205375626d656e75
 			]
@@ -53,6 +62,8 @@
 			/key 1769238125
 			/showInPalette -1
 			/type (ustring)
+=======
+>>>>>>> new-main
 			/value [ 11
 				657870616e645374796c65
 			]
@@ -66,6 +77,20 @@
 			]
 		}
 	}
+<<<<<<< HEAD
+=======
+	/event-2 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_createOutline)
+		/localizedName [ 15
+			437265617465204f75746c696e6573
+		]
+		/isOpen 0
+		/isOn 0
+		/hasDialog 0
+		/parameterCount 0
+	}
+>>>>>>> new-main
 	/event-3 {
 		/useRulersIn1stQuadrant 0
 		/internalName (ai_plugin_expand)
@@ -138,4 +163,126 @@
 			/value 0
 		}
 	}
+<<<<<<< HEAD
+=======
+	/event-5 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_expand)
+		/localizedName [ 6
+			457870616e64
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 1
+		/showDialog 0
+		/parameterCount 4
+		/parameter-1 {
+			/key 1868720756
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-2 {
+			/key 1718185068
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-3 {
+			/key 1937011307
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+		/parameter-4 {
+			/key 1936553064
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+	}
+	/event-6 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_expand)
+		/localizedName [ 6
+			457870616e64
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 1
+		/showDialog 0
+		/parameterCount 4
+		/parameter-1 {
+			/key 1868720756
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+		/parameter-2 {
+			/key 1718185068
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-3 {
+			/key 1937011307
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-4 {
+			/key 1936553064
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+	}
+	/event-7 {
+		/useRulersIn1stQuadrant 0
+		/internalName (ai_plugin_expand)
+		/localizedName [ 6
+			457870616e64
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 1
+		/showDialog 0
+		/parameterCount 4
+		/parameter-1 {
+			/key 1868720756
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+		/parameter-2 {
+			/key 1718185068
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-3 {
+			/key 1937011307
+			/showInPalette -1
+			/type (boolean)
+			/value 1
+		}
+		/parameter-4 {
+			/key 1936553064
+			/showInPalette -1
+			/type (boolean)
+			/value 0
+		}
+	}
+	/event-8 {
+		/useRulersIn1stQuadrant 0
+		/internalName (adobe_ungroup)
+		/localizedName [ 7
+			556e67726f7570
+		]
+		/isOpen 0
+		/isOn 1
+		/hasDialog 0
+		/parameterCount 0
+	}
+>>>>>>> new-main
 }
