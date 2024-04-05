@@ -11,3 +11,4 @@ find . -size +99M | cat >> .gitignore
 
 
 git reset --soft HEAD~1
+git reset --soft <SHA>
