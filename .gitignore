@@ -27,12 +27,7 @@ yarn-error.log*
 
 *.tif
 
-./DON GO TEMPLATES/J35/J35 - Copy.ai
-./DON GO TEMPLATES/J36/J36 - Copy.ai
-./DON GO TEMPLATES/J50/J50.ai
-./DON GO TEMPLATES/J74/J74.ai
-
-./.git/objects/4a/2d78687a8529d89c3acad9f02c69bbab695ef2
-./.git/objects/63/7bbc54219e665325b1e254bfe283f4c6c2ce0d
-./.git/objects/81/c4aaf19ed2a27d45e4b0dde8b889ef45527d1b
-./.git/objects/pack/pack-d3c4934f48ee9b7b1cd6a37eafa583ccb3154afb.pack
+J35 - Copy.ai
+J36 - Copy.ai
+J50.ai
+J74.ai

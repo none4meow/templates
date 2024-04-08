@@ -7,7 +7,6 @@ cmd /c dir /n /b > ids.txt
 
 
 find . -size +99M
-find . -size +99M | cat >> .gitignore
 
 
 git reset --soft HEAD~1
