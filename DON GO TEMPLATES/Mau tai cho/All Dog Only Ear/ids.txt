@@ -1,0 +1,129 @@
+0-German shepherd.svg
+0-Pitbull.svg
+0_Afghan Hound.svg
+0_Airedale Terrier.svg
+0_Akita.svg
+0_Alaskan Malamute.svg
+0_American Bulldog.svg
+0_American Eskimo.svg
+0_American Foxhound.svg
+0_Aussie Cavapoo.svg
+0_Australian Cattle Dog.svg
+0_Australian Shepherd.svg
+0_Basenji.svg
+0_Basset Hound.svg
+0_Beagle.svg
+0_Beauceron.svg
+0_Belgian Malinois.svg
+0_Bernese Mountain Dog.svg
+0_Bichon- Bichon frise.svg
+0_Bloodhound.svg
+0_Blue Heeler.svg
+0_Border Collie.svg
+0_Boxer Puppy.svg
+0_Boxer.svg
+0_Brittany Spaniel.svg
+0_Brussels Griffon.svg
+0_Bull Terrier.svg
+0_Bulldog.svg
+0_Bullmastiff.svg
+0_Cairn Terrier.svg
+0_Cane Corso.svg
+0_Catahoula Leopard.svg
+0_Cavalier.svg
+0_Chesapeake Bay.svg
+0_Chihuahua.svg
+0_Chinese Crested.svg
+0_Chiweenie.svg
+0_Chow Chow.svg
+0_Cockapoo.svg
+0_Cocker spaniel.svg
+0_Collie Mama.svg
+0_Coonhound.svg
+0_Corgi.svg
+0_Coton De Tulear.svg
+0_Dachshund.svg
+0_Dalmatian.svg
+0_Doberman.svg
+0_Doodle.svg
+0_Dutch Shepherd.svg
+0_English Bull  Terrier.svg
+0_English Bulldog.svg
+0_English Setter.svg
+0_Fox Terrier.svg
+0_French Bulldog.svg
+0_German Shorthair Pointers.svg
+0_Golden Doodle.svg
+0_Golden Retriever.svg
+0_Grayhound.svg
+0_Great Dane.svg
+0_Great Pyrenees.svg
+0_Havsnese.svg
+0_Hungarian Vizsla.svg
+0_Husky.svg
+0_Irish Setter.svg
+0_Italian Greyhound.svg
+0_Jack Russell Terrier.svg
+0_Japanese Chin.svg
+0_Keeshond.svg
+0_King Charles Spaniel.svg
+0_Labradoodle.svg
+0_Labrador Puppy.svg
+0_Labrador-labrador retriever.svg
+0_Lhasa Apso.svg
+0_Long haired Dachshund.svg
+0_Maltese.svg
+0_Maltipoo.svg
+0_Mastiff.svg
+0_Mini Foxie.svg
+0_Mini Pin ( Miniature Pinscher ).svg
+0_Morkie.svg
+0_Newfoundland.svg
+0_Norwegian Elkhound.svg
+0_Old English Sheepdog.svg
+0_Papillon.svg
+0_Pekingese.svg
+0_Pit Bull.svg
+0_Pitsky.svg
+0_Pointer.svg
+0_Pomeranian.svg
+0_Pomsky.svg
+0_Poodle.svg
+0_Portuguese Water Dog.svg
+0_Pug.svg
+0_Puggle.svg
+0_Rat Terrier.svg
+0_Retriever German Shepherd.svg
+0_Rhodesian Ridgeback.svg
+0_Rottweiler.svg
+0_Ruseu Terrier.svg
+0_Samoyed.svg
+0_Schipperke.svg
+0_Schnauzer.svg
+0_Scottish Terrier.svg
+0_Shar Pei.svg
+0_Sheepadoodle.svg
+0_Sheltie.svg
+0_Shepsky.svg
+0_Shiba Inu.svg
+0_Shih Tzu.svg
+0_Shilpoo.svg
+0_Shorkie.svg
+0_Siberian Husky.svg
+0_Silky Terrier.svg
+0_Springer Spaniel.svg
+0_St. Bernard.svg
+0_Staffordshire Bull Terrier.svg
+0_Toller.svg
+0_Vizsla .svg
+0_Weimaraner.svg
+0_Welsh Corgi.svg
+0_Welsh Terrier.svg
+0_Westie.svg
+0_Wheaten Terrier.svg
+0_Whippet.svg
+0_Wire-Haired Dachshund.svg
+0_Yokie.svg
+0_Yorkshire Terrier.svg
+boston-terrier-01.svg
+ids.txt
