@@ -4,7 +4,11 @@
 
 cmd /c dir /n /b > ids.txt
 
+<svg>
+	<text style="direction:rtl ;font-family:mama">&U+E114; ackand me</text>
+</svg>
 
+<text style="direction:rtl ;font-family:mama">ackand me</text>
 
 find . -size +99M
 
