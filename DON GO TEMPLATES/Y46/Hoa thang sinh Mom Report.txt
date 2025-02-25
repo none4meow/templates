@@ -1,0 +1,195 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Hoa thang sinh Mom.ai
+Color Mode: RGB color
+Color Profile: sRGB IEC61966-2.1
+Ruler Units: millimeters
+Artboard Dimensions: 200 mm x 200 mm
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Dancing Script Bold (TrueType)
+Hello Regular (OTF)
+Lora Medium (TrueType)
+Myriad Pro (OTF)
+Mocha Frappuccino Regular (OTF)
+Myriad Pro Bold (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\1 Carnation1.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 198.425 by 198.425 points 
+Resolution: 725.714 by 725.714 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\Hoa thang 5 - Lily-01.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 5457K, 1182 by 1182 pixels
+Dimensions: 198.425 by 198.425 points 
+Resolution: 428.897 by 428.897 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\12 Holly 12.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 198.425 by 198.425 points 
+Resolution: 725.714 by 725.714 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\11 Chrysanthemum 11.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 198.425 by 198.425 points 
+Resolution: 725.714 by 725.714 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\10 Marigold 10.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 198.425 by 198.425 points 
+Resolution: 725.714 by 725.714 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\9 Morning Glory9.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 198.425 by 198.425 points 
+Resolution: 725.714 by 725.714 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\8 Poppy8.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 198.425 by 198.425 points 
+Resolution: 725.714 by 725.714 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\7 Larkspur 7.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 198.425 by 198.425 points 
+Resolution: 725.714 by 725.714 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\6 Rose6.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 198.425 by 198.425 points 
+Resolution: 725.714 by 725.714 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\4 Sweet pea4.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 198.425 by 198.425 points 
+Resolution: 725.714 by 725.714 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\3 Cherry3.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 18906K, 2200 by 2200 pixels
+Dimensions: 198.425 by 198.425 points 
+Resolution: 798.286 by 798.286 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\2 Violet2.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 198.425 by 198.425 points 
+Resolution: 725.714 by 725.714 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\Hoa thang 5 - Lily-01.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 5457K, 1182 by 1182 pixels
+Dimensions: 337.284 by 337.284 points 
+Resolution: 252.322 by 252.322 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\6 Rose6.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 363.931 by 363.931 points 
+Resolution: 395.68 by 395.68 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\Hoa thang 5 - Lily-01.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 5457K, 1182 by 1182 pixels
+Dimensions: 337.284 by 337.284 points 
+Resolution: 252.322 by 252.322 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\12 Holly 12.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 344.429 by 344.429 points 
+Resolution: 418.083 by 418.083 pixels per inch
+
+
+D:\MAU\Hoa thang sinh\Mau Hoa Thang Sinh_NEW\Links\12 Holly 12.png
+Type: Transparent RGB
+Bits per Pixel: 32
+Channels: 4
+Size: 15625K, 2000 by 2000 pixels
+Dimensions: 344.429 by 344.429 points 
+Resolution: 418.083 by 418.083 pixels per inch
