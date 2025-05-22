@@ -15,3 +15,11 @@ find . -size +99M
 
 git reset --soft HEAD~1
 git reset --soft <SHA>
+
+
+
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+slmgr /skms kms8.msguides.com
+slmgr /ato
+
+https://github.com/NiREvil/windows-activation
