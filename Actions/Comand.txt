@@ -1,6 +1,8 @@
 
 
 [^:.x+~0-9 ]
+[^size:.xsl+~0-9 ]
+
 
 cmd /c dir /n /b > ids.txt
 
